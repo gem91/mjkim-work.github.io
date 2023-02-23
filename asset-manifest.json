@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-myProfile/static/css/main.0cd5e17b.css",
+    "main.js": "/react-myProfile/static/js/main.78119070.js",
+    "static/media/ico-kakao.png": "/react-myProfile/static/media/ico-kakao.08127712a2fbeaab1b96.png",
+    "static/media/hyundai.png": "/react-myProfile/static/media/hyundai.e736ee2462af09d66d07.png",
+    "static/media/kiehls.png": "/react-myProfile/static/media/kiehls.a67b9cef22ad5ad9e657.png",
+    "index.html": "/react-myProfile/index.html",
+    "main.0cd5e17b.css.map": "/react-myProfile/static/css/main.0cd5e17b.css.map",
+    "main.78119070.js.map": "/react-myProfile/static/js/main.78119070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd5e17b.css",
+    "static/js/main.78119070.js"
+  ]
+}
